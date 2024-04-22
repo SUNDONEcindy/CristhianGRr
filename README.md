@@ -1,6 +1,6 @@
 - 👋 Hola, yo soy @CristhianGRr
 - 👀 estoy interesado en la programación de todo tipo, desde html hasta videojuegos .
-- 🌱 actualmente, estoy aprendiendo c++ y python, y quisiera intentar aprender Malbolge.
+- 🌱 actualmente, estoy aprendiendo c++, java y python.
 - 💞️ estoy buscando colaborar con el sector gaming de miscrosoft o crear mi propia
   desarrolladora de videojuegos.
 - 📫 este es mi correo: cristhiangrr.oficial@gmail.com
